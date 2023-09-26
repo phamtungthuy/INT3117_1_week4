@@ -1,4 +1,4 @@
-# INT3117_1_week3
+# INT3117_1_week4
 ## This project demo for testing by using depression table testing method and equivalence partitioning method.
 ## Setup & Installation
 
